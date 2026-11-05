@@ -1,0 +1,11 @@
+# Dataset & Raw Files
+Intelligent System X-rays/
+*.png
+*.csv
+!requirements.txt
+
+# Python & Checkpoints
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.keras
